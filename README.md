@@ -24,8 +24,3 @@ The SQL script includes:
 5. **Default Privileges**: Ensuring permissions apply to future tables.
 6. **Search Path Isolation**: Restricting each role to its respective schema.
 7. **Public Schema Restriction**: Preventing unintended usage of the default `public` schema.
-
-## Usage Instructions
-### Prerequisites
-- PostgreSQL installed on your system.
-- Basic knowledge of PostgreSQL commands.
